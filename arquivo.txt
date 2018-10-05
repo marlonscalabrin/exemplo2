@@ -1,7 +1,5 @@
 Primeira linha do arquivo
 Segunda
-2,5
-Terceira
-Quarta
 Quita
 Sábado
+Domingo
